@@ -1,0 +1,10 @@
+shift = add to first, unshift = delete first
+
+== is looking for content
+=== is looking for type
+
+f-strings are in JavaScript too, to use them write string with `Here it is ${variable}` brackets (backTicks).
+
+spread vs. rest
+
+Import and Export with JavaScript
